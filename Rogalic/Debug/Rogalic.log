@@ -1,0 +1,4 @@
+﻿  Rogalic.cpp
+a:\games\rogalic\rogalic\rooms.h(66): warning C4018: <: несоответствие типов со знаком и без знака
+a:\games\rogalic\rogalic\rooms.h(70): warning C4018: >: несоответствие типов со знаком и без знака
+  Rogalic.vcxproj -> A:\Games\Rogalic\Debug\Rogalic.exe
